@@ -10,7 +10,7 @@ Plus some other python libraries (numpy,pandas). Note that the plot is a log-sca
 ------------------------
 
   ```
-  pip -r install Requirements.txt
+  pip  install -r Requirements.txt
   ```
 
 Note : also install numpy, pandas if not already installed
