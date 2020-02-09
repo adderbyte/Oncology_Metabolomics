@@ -112,7 +112,7 @@ def update_time_series(state_id,compound):
 			'data' : data,
 			'layout' : go.Layout(
 				xaxis={'title': 'Time line'},
-				yaxis={'title': 'Metabolites Concentration'},
+				yaxis={'title': 'Metabolites (log) Concentration'},
 				plot_bgcolor = colors['background'],
                 paper_bgcolor=colors['background'],
                 font= {
